@@ -109,7 +109,7 @@ Results-driven **Data Engineer** with **4+ years** of experience designing and o
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saigolla0320-cmyk&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saigolla0320-cmyk&layout=compact&hide_border=true)
+
 
 </div>
 
